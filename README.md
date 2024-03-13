@@ -1,5 +1,5 @@
 # 3D Renderering Simulation
-This project is a sample 3D renderer using numpy and pygame. It supports global object files, and incorporates the different coorinate spaces neccesary for rendering objects to a 2-dimensional screen. This code employs all of the math using numpy.
+This project is a sample 3D renderer using numpy and pygame. It supports global object files, and incorporates the different coorinate spaces neccesary for rendering 3D objects to a 2-dimensional screen. This code employs all of the math using numpy.
 
 ### This project ...
 * Renders 3D objects into world space
